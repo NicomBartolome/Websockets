@@ -1,0 +1,75 @@
+[
+   {
+      "id": 1,
+      "title": "producto prueba",
+      "description": "Este es un producto prueba",
+      "price": "200",
+      "thumbnail": "Sin imagen",
+      "code": "abc123",
+      "stock": "25"
+   },
+   {
+      "id": 2,
+      "title": "producto prueba5",
+      "description": "Este es un producto prueba",
+      "price": "200",
+      "status": true,
+      "stock": 200,
+      "category": "Electronica",
+      "thumbnail": [
+         "1,2,3"
+      ]
+   },
+   {
+      "id": 3,
+      "title": "Titulo",
+      "description": "Probando",
+      "code": "ab33456",
+      "price": 500,
+      "status": true,
+      "stock": 200,
+      "category": "Electronica",
+      "thumbnail": [
+         "1,2,3"
+      ]
+   },
+   {
+      "id": 4,
+      "title": "Titulo 233",
+      "description": "Probando",
+      "code": "codigo nuevo de prueba",
+      "price": 500,
+      "status": true,
+      "stock": 200,
+      "category": "Electronica",
+      "thumbnail": [
+         "1,2,3"
+      ]
+   },
+   {
+      "id": 5,
+      "title": "probando",
+      "description": "13456",
+      "code": "6696",
+      "price": 524,
+      "status": true,
+      "stock": 99985,
+      "category": "prueba",
+      "thumbnail": [
+         "5558"
+      ]
+   },
+   {
+      "id": 6,
+      "title": "probando33",
+      "description": "134526",
+      "code": "66961",
+      "price": 5243,
+      "status": true,
+      "stock": 99985,
+      "category": "2prueba",
+      "thumbnail": [
+         "5558"
+      ]
+   }
+]
